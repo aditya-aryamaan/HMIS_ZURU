@@ -66,7 +66,7 @@ You also need an OpenRouter API key and a Telegram account.
 ### 1. Clone and enter the repository
 
 ```bash
-git clone <repository-url> HMIS_ZURU
+git clone https://github.com/aditya-aryamaan/HMIS_ZURU.git
 cd HMIS_ZURU
 ```
 
