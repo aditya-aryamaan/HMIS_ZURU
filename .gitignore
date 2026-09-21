@@ -1,0 +1,23 @@
+# Credentials and environment files
+.env
+.env.*
+!.env.example
+
+# Local runtime data
+.n8n/
+n8n_data/
+testing/
+*.sqlite
+*.sqlite-*
+*.log
+
+# LaTeX build artifacts
+*.aux
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+*.toc
+
+# macOS
+.DS_Store
